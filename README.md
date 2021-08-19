@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tabooabr
-- 👀 I’m interested in Games development, Self care, videogames, Reading and more.
-- 🌱 I’m currently learning Programming basics CS50x
-- 💞️ I’m looking to collaborate on Game development projects
+- 👋 Hi, I’m @Tabooabr / Aaron Bastiansen.
+- 👀 I’m interested in Games development, Videogames, Reading, Technology and more.
+- 🌱 I’m currently learning CS50x, Unity game dev Course, and Attending game jams, feel free to contact me to join!
+- 💞️ I’m looking to collaborate on Game development projects & a Role in the Industry (QA, Game Design, Tech roles).
 - 📫 How to reach me zeoomgarb@gmail.com
 
 <!---
